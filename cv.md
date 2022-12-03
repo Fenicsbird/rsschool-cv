@@ -28,4 +28,4 @@ https://github.com/Fenicsbird/rsschool-cv
 * University: Donbas state engineering academy
 
 ## English
-A1
+A1   
