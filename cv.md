@@ -25,7 +25,7 @@ function multiply(a, b){
 https://github.com/Fenicsbird/rsschool-cv
 
 ## Education
-* University: Donbas state engineering academy
+* University: Donbas state engineering academy 
 
 ## English
 A1   
