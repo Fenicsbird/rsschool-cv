@@ -1,3 +1,4 @@
+https://www.kindpng.com/picc/m/110-1104699_woman-clipart-images-png-cartoon-business-woman-transparent.png
 # Natalya Kalinicheva
 
 ## Contacts
@@ -7,9 +8,7 @@
 * GitHub: Fenicsbird
 
 ## About Me
-My profession is an accountant. Over 20 years of experience in this field. 
-
-Now my goal is to change my profession and become a front-end developer. I have an analytical mindset, perseverance, I like to learn new things.
+My profession is an accountant. Over 20 years of experience in this field. Now my goal is to change my profession and become a front-end developer. I have an analytical mindset, perseverance, I like to learn new things.
 
 ## Skills
 * Git
