@@ -1,4 +1,4 @@
-https://www.kindpng.com/picc/m/110-1104699_woman-clipart-images-png-cartoon-business-woman-transparent.png
+![avatar](https://www.kindpng.com/picc/m/110-1104699_woman-clipart-images-png-cartoon-business-woman-transparent.png)
 # Natalya Kalinicheva
 
 ## Contacts
