@@ -43,7 +43,7 @@ https://github.com/Fenicsbird/rsschool-cv
 ## Courses
 * HTML and CSS Tutorials on the [Code Basics](https://code-basics.com/ru) (completed)
 * RS School Course «JavaScript/Front-end. Stage 0» (completed)
-* JavaScript on the [Code Basics](https://code-basics.com/ru) (in progress)
+* JavaScript on the [Code Basics](https://code-basics.com/ru) (completed)
 
 ## English
 A1   
